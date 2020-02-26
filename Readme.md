@@ -11,3 +11,5 @@ I got 40th out of 951 teams (top 5%)
 Key:
 
 - Feature selection (permutation importance and recursive feature elimination)
+- Adversarial validation to see the distribution of train/test
+
